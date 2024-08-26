@@ -1,0 +1,11 @@
+name string
+age int
+height float
+income float
+street string
+address int
+pets int
+profession string
+hobby string
+weight float
+level int
